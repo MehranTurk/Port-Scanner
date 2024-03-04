@@ -14,7 +14,7 @@ def save_ips_to_file(ips):
 
 def main():
     try:
-        ip_range = input("Enter IP range (e.g., 192.168.1.1-10): ")
+        ip_range = input("Enter IP range (e.g., 192.168.1.1-192.168.1.255): ")
         start_ip, end_ip = ip_range.split('-')
         start_ip = start_ip.strip()
         end_ip = end_ip.strip()
