@@ -22,7 +22,7 @@ IP Port Scanner is a simple tool designed to scan for open ports on specified IP
 - colorama library (install via `pip install colorama`)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 MehranTurk (M.T)
